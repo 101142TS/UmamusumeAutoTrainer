@@ -1,6 +1,6 @@
 # UmamusumeAutoTrainer
 
-闪耀！优俊少女（赛马娘国服）自动育成工具 forked by 101142ts
+闪耀！优俊少女（赛马娘国服）自动育成工具 forked by 101142ts???
 
 ## 功能
 
