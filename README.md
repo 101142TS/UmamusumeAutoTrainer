@@ -14,9 +14,7 @@
 
 #####  克隆仓库
 
-```commandline
-git clone https://github.com/shiokaze/UmamusumeAutoTrainer
-```
+
 ##### 安装依赖
 
 1. 安装python3.10.9，[下载地址](https://www.python.org/downloads/release/python-3109/)
