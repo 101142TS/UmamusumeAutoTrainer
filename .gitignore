@@ -1,3 +1,7 @@
 venv
 .idea
 userdata
+bot
+module
+__pycache__
+.paddleocr
